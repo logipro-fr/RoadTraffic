@@ -1,0 +1,189 @@
+openapi: 3.1.0
+info:
+  title: RoadTraffic API
+  version: 1.0.0
+servers:
+  - url: http://172.17.0.1:11280/api/v1
+    description: Local server
+paths:
+  /flow/Return:
+    get:
+      summary: Returns traffic flow data
+      operationId: returnFlow
+      parameters:
+        - name: latitude
+          in: query
+          required: true
+          schema:
+            type: string
+          description: Latitude of the location
+          example: "45.995"
+        - name: longitude
+          in: query
+          required: true
+          schema:
+            type: string
+          description: Longitude of the location
+          example: "4.721"
+        - name: apiName
+          in: query
+          required: true
+          schema:
+            type: string
+          description: API name
+          example: "TomTom"
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: true
+                  errorCode:
+                    type: string
+                    example: null
+                  data:
+                    type: object
+                    properties:
+                      FlowId:
+                        type: string
+                        example: "flow_12345"
+                      FlowData:
+                        type: string
+                        example: "Moderate traffic flow detected"
+                      CreatedAt:
+                        type: string
+                        example: "2023-06-07T12:34:56Z"
+                  message:
+                    type: string
+                    example: "Traffic flow data retrieved successfully"
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: false
+                  errorCode:
+                    type: string
+                    example: "ERR400"
+                  data:
+                    type: object
+                    example: {}
+                  message:
+                    type: string
+                    example: "Invalid request parameters"
+  /incident/Return:
+    post:
+      summary: Returns traffic incident data
+      operationId: returnIncident
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                bbox:
+                  type: array
+                  items:
+                    type: number
+                  description: Border box coordinates
+                  example: [4.8187,45.7417,4.8657,45.7777]
+                apiName:
+                  type: string
+                  description: API name
+                  example: "TomTom"
+      responses:
+        '201':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: true
+                  errorCode:
+                    type: string
+                    example: null
+                  data:
+                    type: object
+                    properties:
+                      IncidentId:
+                        type: string
+                        example: "incident_67890"
+                      IncidentData:
+                        type: string
+                        example: "Accident reported on highway"
+                      CreatedAt:
+                        type: string
+                        example: "2023-06-07T12:45:00Z"
+                  message:
+                    type: string
+                    example: "Traffic incident data retrieved successfully"
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: false
+                  errorCode:
+                    type: string
+                    example: "ERR400"
+                  data:
+                    type: object
+                    example: {}
+                  message:
+                    type: string
+                    example: "Invalid request parameters"
+        '422':
+          description: Unprocessable entity
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: false
+                  errorCode:
+                    type: string
+                    example: "ERR422"
+                  data:
+                    type: object
+                    example: {}
+                  message:
+                    type: string
+                    example: "Unprocessable entity"
+        '500':
+          description: Internal server error
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: false
+                  errorCode:
+                    type: string
+                    example: "ERR500"
+                  data: 
+                    type: object
+                    example: {}
+                  message:
+                    type: string
+                    example: "Internal server error"

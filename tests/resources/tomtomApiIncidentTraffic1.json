@@ -1,0 +1,56 @@
+{
+  "incidents": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "793bfb23752c4ac3a903fe0f18c2975f",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2023-11-05T22:00:00Z",
+        "endTime": null,
+        "from": "Pont Lafayette Rive Gauche - Quai Général Sarrail (Quai Victor Augagneur)",
+        "to": "Rue de Bonnel (Quai Victor Augagneur)",
+        "length": 172.858,
+        "delay": 56,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8414797673,
+            45.7633647681
+          ],
+          [
+            4.841462333,
+            45.7631796972
+          ],
+          [
+            4.8414301464,
+            45.7628658647
+          ],
+          [
+            4.8413966188,
+            45.7623709917
+          ],
+          [
+            4.8413738201,
+            45.7621510662
+          ],
+          [
+            4.8413228581,
+            45.7618144224
+          ]
+        ]
+      }
+    }
+  ]
+}

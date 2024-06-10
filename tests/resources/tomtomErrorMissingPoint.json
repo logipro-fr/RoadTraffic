@@ -1,0 +1,8 @@
+{
+  "error": "Missing point parameter.",
+  "httpStatusCode": 400,
+  "detailedError": {
+    "code": "INVALID_REQUEST",
+    "message": "Missing point parameter."
+  }
+}

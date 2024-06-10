@@ -1,0 +1,6 @@
+framework:
+    test: true
+
+when@test:
+    framework:
+        test: true

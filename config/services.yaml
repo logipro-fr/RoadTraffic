@@ -1,0 +1,42 @@
+# This file is the entry point to configure your own services.
+# Files in the packages/ subdirectory configure your dependencies.
+
+# Put parameters here that don't need to change on each machine where the app is deployed
+# https://symfony.com/doc/current/best_practices.html#use-parameters-for-application-configuration
+parameters:
+
+services:
+  # default configuration for services in this file
+  _defaults:
+    autowire: true # Automatically injects dependencies in your services.
+    autoconfigure: true # Automatically registers your services as commands, event subscribers, etc.
+
+  RoadTraffic\Infrastructure\Api\V1\ReturnFlowController:
+    autowire: true
+    arguments:
+      $repository: '@roadtraffic.repository'
+      $factory: '@roadtraffic.factory'
+
+  RoadTraffic\Infrastructure\Api\V1\ReturnIncidentController:
+    autowire: true
+    arguments:
+      $repository: '@roadtraffic.repository'
+      $factory: '@roadtraffic.factory'
+
+  roadtraffic.repository:
+    public: true
+    autowire: true
+    class: RoadTraffic\Infrastructure\Persistance\TrafficDataRepositoryInMemory
+
+  roadtraffic.factory:
+    public: true
+    autowire: true
+    class: RoadTraffic\Infrastructure\TrafficProviderFactory
+
+
+  RoadTraffic\Domain\TrafficDataRepositoryInterface: "@roadtraffic.repository"
+  RoadTraffic\Application\Service\ProviderAbstractFactory: "@roadtraffic.factory"
+
+  RoadTraffic\Infrastructure\Api\V1\:
+    resource: "../src/Infrastructure/Api/V1/"
+    tags: ["controller.service_arguments"]

@@ -1,0 +1,6 @@
+https://api.tomtom.com/traffic/services/4/flowSegmentData/absolute/10/json?key=%s&point=%s
+https://api.tomtom.com/traffic/services/5/incidentDetails?key=%s&bbox=%s&fields={incidents{type,geometry{type,coordinates},properties{id,iconCategory,magnitudeOfDelay,startTime,endTime,from,to,length,roadNumbers,probabilityOfOccurrence,timeValidity,delay,events{description,code}}}}
+
+https://api.tomtom.com/traffic/services/5/incidentDetails?key=FakeApiKeyTomtom&bbox=4.7,45.982,4.742,46.008&fields={incidents{type,geometry{type,coordinates},properties{id,iconCategory,magnitudeOfDelay,startTime,endTime,from,to,length,roadNumbers,probabilityOfOccurrence,timeValidity,delay,events{description,code}}}}
+https://api.tomtom.com/traffic/services/4/flowSegmentData/absolute/10/json?key=FakeApiKeyTomtom&point=45.995,4.721
+

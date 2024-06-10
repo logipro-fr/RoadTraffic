@@ -1,0 +1,2576 @@
+[
+  {
+    "region": "Auvergne-Rhône-Alpes",
+    "department": "Rhône",
+    "hot_points": [
+      {
+        "lat": 45.995,
+        "lon": 4.721,
+        "frequency": 7,
+        "neighbors": [
+          {
+            "lat": 45.982,
+            "lon": 4.735,
+            "frequency": 5
+          },
+          {
+            "lat": 45.998,
+            "lon": 4.734,
+            "frequency": 5
+          },
+          {
+            "lat": 45.992,
+            "lon": 4.742,
+            "frequency": 5
+          },
+          {
+            "lat": 45.987,
+            "lon": 4.721,
+            "frequency": 4
+          },
+          {
+            "lat": 46.001,
+            "lon": 4.718,
+            "frequency": 4
+          },
+          {
+            "lat": 45.982,
+            "lon": 4.715,
+            "frequency": 4
+          },
+          {
+            "lat": 46.002,
+            "lon": 4.719,
+            "frequency": 4
+          },
+          {
+            "lat": 45.989,
+            "lon": 4.722,
+            "frequency": 3
+          },
+          {
+            "lat": 45.985,
+            "lon": 4.732,
+            "frequency": 3
+          }
+        ]
+      },
+      {
+        "lat": 45.602,
+        "lon": 4.797,
+        "frequency": 4,
+        "neighbors": [
+          {
+            "lat": 45.608,
+            "lon": 4.803,
+            "frequency": 3
+          },
+          {
+            "lat": 45.588,
+            "lon": 4.792,
+            "frequency": 2
+          },
+          {
+            "lat": 45.588,
+            "lon": 4.793,
+            "frequency": 2
+          },
+          {
+            "lat": 45.615,
+            "lon": 4.81,
+            "frequency": 2
+          },
+          {
+            "lat": 45.589,
+            "lon": 4.793,
+            "frequency": 2
+          },
+          {
+            "lat": 45.588,
+            "lon": 4.791,
+            "frequency": 2
+          },
+          {
+            "lat": 45.601,
+            "lon": 4.796,
+            "frequency": 2
+          },
+          {
+            "lat": 45.603,
+            "lon": 4.797,
+            "frequency": 2
+          },
+          {
+            "lat": 45.59,
+            "lon": 4.806,
+            "frequency": 2
+          }
+        ]
+      },
+      {
+        "lat": 45.637,
+        "lon": 4.823,
+        "frequency": 4,
+        "neighbors": [
+          {
+            "lat": 45.628,
+            "lon": 4.82,
+            "frequency": 1
+          },
+          {
+            "lat": 45.627,
+            "lon": 4.816,
+            "frequency": 1
+          },
+          {
+            "lat": 45.629,
+            "lon": 4.828,
+            "frequency": 1
+          },
+          {
+            "lat": 45.631,
+            "lon": 4.819,
+            "frequency": 1
+          },
+          {
+            "lat": 45.626,
+            "lon": 4.816,
+            "frequency": 1
+          },
+          {
+            "lat": 45.623,
+            "lon": 4.814,
+            "frequency": 1
+          },
+          {
+            "lat": 45.638,
+            "lon": 4.823,
+            "frequency": 1
+          },
+          {
+            "lat": 45.622,
+            "lon": 4.814,
+            "frequency": 1
+          },
+          {
+            "lat": 45.625,
+            "lon": 4.815,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.981,
+        "lon": 4.74,
+        "frequency": 4,
+        "neighbors": [
+          {
+            "lat": 45.984,
+            "lon": 4.748,
+            "frequency": 3
+          },
+          {
+            "lat": 45.98,
+            "lon": 4.739,
+            "frequency": 3
+          },
+          {
+            "lat": 45.973,
+            "lon": 4.717,
+            "frequency": 3
+          },
+          {
+            "lat": 45.979,
+            "lon": 4.735,
+            "frequency": 3
+          },
+          {
+            "lat": 45.984,
+            "lon": 4.744,
+            "frequency": 2
+          },
+          {
+            "lat": 45.975,
+            "lon": 4.745,
+            "frequency": 1
+          },
+          {
+            "lat": 45.983,
+            "lon": 4.743,
+            "frequency": 1
+          },
+          {
+            "lat": 45.975,
+            "lon": 4.716,
+            "frequency": 1
+          },
+          {
+            "lat": 45.973,
+            "lon": 4.734,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.978,
+        "lon": 4.708,
+        "frequency": 3,
+        "neighbors": [
+          {
+            "lat": 45.981,
+            "lon": 4.694,
+            "frequency": 3
+          },
+          {
+            "lat": 45.98,
+            "lon": 4.698,
+            "frequency": 2
+          },
+          {
+            "lat": 45.972,
+            "lon": 4.717,
+            "frequency": 2
+          },
+          {
+            "lat": 45.971,
+            "lon": 4.717,
+            "frequency": 2
+          },
+          {
+            "lat": 45.983,
+            "lon": 4.693,
+            "frequency": 1
+          },
+          {
+            "lat": 45.98,
+            "lon": 4.69,
+            "frequency": 1
+          },
+          {
+            "lat": 45.98,
+            "lon": 4.699,
+            "frequency": 1
+          },
+          {
+            "lat": 45.977,
+            "lon": 4.703,
+            "frequency": 1
+          },
+          {
+            "lat": 45.984,
+            "lon": 4.7,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.633,
+        "lon": 4.86,
+        "frequency": 3,
+        "neighbors": [
+          {
+            "lat": 45.628,
+            "lon": 4.873,
+            "frequency": 1
+          },
+          {
+            "lat": 45.641,
+            "lon": 4.878,
+            "frequency": 1
+          },
+          {
+            "lat": 45.643,
+            "lon": 4.875,
+            "frequency": 1
+          },
+          {
+            "lat": 45.637,
+            "lon": 4.875,
+            "frequency": 1
+          },
+          {
+            "lat": 45.639,
+            "lon": 4.882,
+            "frequency": 1
+          },
+          {
+            "lat": 45.635,
+            "lon": 4.859,
+            "frequency": 1
+          },
+          {
+            "lat": 45.63,
+            "lon": 4.855,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 46.02,
+        "lon": 4.721,
+        "frequency": 3,
+        "neighbors": [
+          {
+            "lat": 46.022,
+            "lon": 4.721,
+            "frequency": 2
+          },
+          {
+            "lat": 46.014,
+            "lon": 4.725,
+            "frequency": 2
+          },
+          {
+            "lat": 46.015,
+            "lon": 4.707,
+            "frequency": 1
+          },
+          {
+            "lat": 46.025,
+            "lon": 4.706,
+            "frequency": 1
+          },
+          {
+            "lat": 46.018,
+            "lon": 4.721,
+            "frequency": 1
+          },
+          {
+            "lat": 46.019,
+            "lon": 4.721,
+            "frequency": 1
+          },
+          {
+            "lat": 46.013,
+            "lon": 4.708,
+            "frequency": 1
+          },
+          {
+            "lat": 46.022,
+            "lon": 4.72,
+            "frequency": 1
+          },
+          {
+            "lat": 46.018,
+            "lon": 4.72,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.715,
+        "lon": 4.693,
+        "frequency": 3,
+        "neighbors": [
+          {
+            "lat": 45.716,
+            "lon": 4.691,
+            "frequency": 1
+          },
+          {
+            "lat": 45.721,
+            "lon": 4.679,
+            "frequency": 1
+          },
+          {
+            "lat": 45.729,
+            "lon": 4.703,
+            "frequency": 1
+          },
+          {
+            "lat": 45.72,
+            "lon": 4.698,
+            "frequency": 1
+          },
+          {
+            "lat": 45.709,
+            "lon": 4.704,
+            "frequency": 1
+          },
+          {
+            "lat": 45.722,
+            "lon": 4.698,
+            "frequency": 1
+          },
+          {
+            "lat": 45.732,
+            "lon": 4.695,
+            "frequency": 1
+          },
+          {
+            "lat": 45.731,
+            "lon": 4.694,
+            "frequency": 1
+          },
+          {
+            "lat": 45.72,
+            "lon": 4.683,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.496,
+        "lon": 4.722,
+        "frequency": 3,
+        "neighbors": [
+          {
+            "lat": 45.511,
+            "lon": 4.722,
+            "frequency": 1
+          },
+          {
+            "lat": 45.506,
+            "lon": 4.734,
+            "frequency": 1
+          },
+          {
+            "lat": 45.505,
+            "lon": 4.736,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.981,
+        "lon": 4.67,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 45.98,
+            "lon": 4.681,
+            "frequency": 1
+          },
+          {
+            "lat": 45.996,
+            "lon": 4.663,
+            "frequency": 1
+          },
+          {
+            "lat": 45.982,
+            "lon": 4.682,
+            "frequency": 1
+          },
+          {
+            "lat": 45.98,
+            "lon": 4.663,
+            "frequency": 1
+          },
+          {
+            "lat": 45.973,
+            "lon": 4.674,
+            "frequency": 1
+          },
+          {
+            "lat": 45.978,
+            "lon": 4.656,
+            "frequency": 1
+          },
+          {
+            "lat": 45.994,
+            "lon": 4.683,
+            "frequency": 1
+          },
+          {
+            "lat": 45.979,
+            "lon": 4.662,
+            "frequency": 1
+          },
+          {
+            "lat": 45.981,
+            "lon": 4.666,
+            "frequency": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "region": "collectivité de Corse",
+    "department": "Corse",
+    "hot_points": [
+      {
+        "lat": 41.932,
+        "lon": 8.741,
+        "frequency": 11,
+        "neighbors": [
+          {
+            "lat": 41.942,
+            "lon": 8.75,
+            "frequency": 10
+          },
+          {
+            "lat": 41.933,
+            "lon": 8.737,
+            "frequency": 8
+          },
+          {
+            "lat": 41.919,
+            "lon": 8.737,
+            "frequency": 8
+          },
+          {
+            "lat": 41.934,
+            "lon": 8.744,
+            "frequency": 6
+          },
+          {
+            "lat": 41.93,
+            "lon": 8.757,
+            "frequency": 6
+          },
+          {
+            "lat": 41.931,
+            "lon": 8.74,
+            "frequency": 6
+          },
+          {
+            "lat": 41.93,
+            "lon": 8.761,
+            "frequency": 6
+          },
+          {
+            "lat": 41.926,
+            "lon": 8.738,
+            "frequency": 6
+          },
+          {
+            "lat": 41.925,
+            "lon": 8.738,
+            "frequency": 6
+          }
+        ]
+      },
+      {
+        "lat": 42.667,
+        "lon": 9.443,
+        "frequency": 8,
+        "neighbors": [
+          {
+            "lat": 42.65,
+            "lon": 9.441,
+            "frequency": 6
+          },
+          {
+            "lat": 42.666,
+            "lon": 9.439,
+            "frequency": 6
+          },
+          {
+            "lat": 42.682,
+            "lon": 9.444,
+            "frequency": 5
+          },
+          {
+            "lat": 42.671,
+            "lon": 9.442,
+            "frequency": 5
+          },
+          {
+            "lat": 42.676,
+            "lon": 9.438,
+            "frequency": 4
+          },
+          {
+            "lat": 42.65,
+            "lon": 9.44,
+            "frequency": 4
+          },
+          {
+            "lat": 42.68,
+            "lon": 9.442,
+            "frequency": 3
+          },
+          {
+            "lat": 42.673,
+            "lon": 9.437,
+            "frequency": 3
+          },
+          {
+            "lat": 42.663,
+            "lon": 9.442,
+            "frequency": 3
+          }
+        ]
+      },
+      {
+        "lat": 42.701,
+        "lon": 9.45,
+        "frequency": 6,
+        "neighbors": [
+          {
+            "lat": 42.686,
+            "lon": 9.446,
+            "frequency": 6
+          },
+          {
+            "lat": 42.686,
+            "lon": 9.445,
+            "frequency": 5
+          },
+          {
+            "lat": 42.7,
+            "lon": 9.45,
+            "frequency": 5
+          },
+          {
+            "lat": 42.699,
+            "lon": 9.452,
+            "frequency": 5
+          },
+          {
+            "lat": 42.699,
+            "lon": 9.451,
+            "frequency": 4
+          },
+          {
+            "lat": 42.685,
+            "lon": 9.445,
+            "frequency": 4
+          },
+          {
+            "lat": 42.703,
+            "lon": 9.447,
+            "frequency": 4
+          },
+          {
+            "lat": 42.693,
+            "lon": 9.45,
+            "frequency": 4
+          },
+          {
+            "lat": 42.702,
+            "lon": 9.45,
+            "frequency": 3
+          }
+        ]
+      },
+      {
+        "lat": 41.932,
+        "lon": 8.803,
+        "frequency": 6,
+        "neighbors": [
+          {
+            "lat": 41.935,
+            "lon": 8.803,
+            "frequency": 3
+          },
+          {
+            "lat": 41.932,
+            "lon": 8.802,
+            "frequency": 3
+          },
+          {
+            "lat": 41.937,
+            "lon": 8.804,
+            "frequency": 2
+          },
+          {
+            "lat": 41.939,
+            "lon": 8.804,
+            "frequency": 2
+          },
+          {
+            "lat": 41.927,
+            "lon": 8.786,
+            "frequency": 2
+          },
+          {
+            "lat": 41.944,
+            "lon": 8.811,
+            "frequency": 1
+          },
+          {
+            "lat": 41.927,
+            "lon": 8.818,
+            "frequency": 1
+          },
+          {
+            "lat": 41.943,
+            "lon": 8.81,
+            "frequency": 1
+          },
+          {
+            "lat": 41.935,
+            "lon": 8.788,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 42.622,
+        "lon": 9.437,
+        "frequency": 5,
+        "neighbors": [
+          {
+            "lat": 42.623,
+            "lon": 9.437,
+            "frequency": 5
+          },
+          {
+            "lat": 42.636,
+            "lon": 9.439,
+            "frequency": 4
+          },
+          {
+            "lat": 42.614,
+            "lon": 9.438,
+            "frequency": 3
+          },
+          {
+            "lat": 42.621,
+            "lon": 9.437,
+            "frequency": 3
+          },
+          {
+            "lat": 42.612,
+            "lon": 9.438,
+            "frequency": 2
+          },
+          {
+            "lat": 42.619,
+            "lon": 9.437,
+            "frequency": 2
+          },
+          {
+            "lat": 42.629,
+            "lon": 9.438,
+            "frequency": 2
+          },
+          {
+            "lat": 42.634,
+            "lon": 9.438,
+            "frequency": 2
+          },
+          {
+            "lat": 42.63,
+            "lon": 9.438,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 41.914,
+        "lon": 8.725,
+        "frequency": 5,
+        "neighbors": [
+          {
+            "lat": 41.913,
+            "lon": 8.725,
+            "frequency": 4
+          },
+          {
+            "lat": 41.915,
+            "lon": 8.73,
+            "frequency": 4
+          },
+          {
+            "lat": 41.913,
+            "lon": 8.724,
+            "frequency": 3
+          },
+          {
+            "lat": 41.912,
+            "lon": 8.723,
+            "frequency": 3
+          },
+          {
+            "lat": 41.913,
+            "lon": 8.726,
+            "frequency": 3
+          },
+          {
+            "lat": 41.909,
+            "lon": 8.712,
+            "frequency": 3
+          },
+          {
+            "lat": 41.909,
+            "lon": 8.702,
+            "frequency": 2
+          },
+          {
+            "lat": 41.916,
+            "lon": 8.724,
+            "frequency": 2
+          },
+          {
+            "lat": 41.909,
+            "lon": 8.719,
+            "frequency": 2
+          }
+        ]
+      },
+      {
+        "lat": 41.948,
+        "lon": 8.764,
+        "frequency": 5,
+        "neighbors": [
+          {
+            "lat": 41.959,
+            "lon": 8.781,
+            "frequency": 4
+          },
+          {
+            "lat": 41.945,
+            "lon": 8.758,
+            "frequency": 4
+          },
+          {
+            "lat": 41.95,
+            "lon": 8.771,
+            "frequency": 3
+          },
+          {
+            "lat": 41.948,
+            "lon": 8.763,
+            "frequency": 3
+          },
+          {
+            "lat": 41.953,
+            "lon": 8.785,
+            "frequency": 3
+          },
+          {
+            "lat": 41.945,
+            "lon": 8.759,
+            "frequency": 3
+          },
+          {
+            "lat": 41.95,
+            "lon": 8.775,
+            "frequency": 3
+          },
+          {
+            "lat": 41.95,
+            "lon": 8.772,
+            "frequency": 2
+          },
+          {
+            "lat": 41.945,
+            "lon": 8.76,
+            "frequency": 2
+          }
+        ]
+      },
+      {
+        "lat": 41.927,
+        "lon": 8.778,
+        "frequency": 5,
+        "neighbors": [
+          {
+            "lat": 41.93,
+            "lon": 8.773,
+            "frequency": 3
+          },
+          {
+            "lat": 41.93,
+            "lon": 8.776,
+            "frequency": 3
+          },
+          {
+            "lat": 41.929,
+            "lon": 8.772,
+            "frequency": 2
+          },
+          {
+            "lat": 41.927,
+            "lon": 8.779,
+            "frequency": 2
+          },
+          {
+            "lat": 41.929,
+            "lon": 8.77,
+            "frequency": 2
+          },
+          {
+            "lat": 41.929,
+            "lon": 8.766,
+            "frequency": 2
+          },
+          {
+            "lat": 41.929,
+            "lon": 8.767,
+            "frequency": 1
+          },
+          {
+            "lat": 41.93,
+            "lon": 8.775,
+            "frequency": 1
+          },
+          {
+            "lat": 41.928,
+            "lon": 8.771,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 42.564,
+        "lon": 9.441,
+        "frequency": 4,
+        "neighbors": [
+          {
+            "lat": 42.562,
+            "lon": 9.441,
+            "frequency": 3
+          },
+          {
+            "lat": 42.571,
+            "lon": 9.442,
+            "frequency": 2
+          },
+          {
+            "lat": 42.563,
+            "lon": 9.445,
+            "frequency": 2
+          },
+          {
+            "lat": 42.55,
+            "lon": 9.453,
+            "frequency": 2
+          },
+          {
+            "lat": 42.561,
+            "lon": 9.441,
+            "frequency": 2
+          },
+          {
+            "lat": 42.572,
+            "lon": 9.441,
+            "frequency": 2
+          },
+          {
+            "lat": 42.56,
+            "lon": 9.458,
+            "frequency": 1
+          },
+          {
+            "lat": 42.55,
+            "lon": 9.442,
+            "frequency": 1
+          },
+          {
+            "lat": 42.559,
+            "lon": 9.442,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 42.648,
+        "lon": 9.44,
+        "frequency": 4,
+        "neighbors": [
+          {
+            "lat": 42.649,
+            "lon": 9.441,
+            "frequency": 3
+          },
+          {
+            "lat": 42.649,
+            "lon": 9.44,
+            "frequency": 3
+          },
+          {
+            "lat": 42.65,
+            "lon": 9.417,
+            "frequency": 2
+          },
+          {
+            "lat": 42.643,
+            "lon": 9.457,
+            "frequency": 2
+          },
+          {
+            "lat": 42.645,
+            "lon": 9.44,
+            "frequency": 2
+          },
+          {
+            "lat": 42.65,
+            "lon": 9.453,
+            "frequency": 1
+          },
+          {
+            "lat": 42.644,
+            "lon": 9.44,
+            "frequency": 1
+          },
+          {
+            "lat": 42.64,
+            "lon": 9.44,
+            "frequency": 1
+          },
+          {
+            "lat": 42.64,
+            "lon": 9.439,
+            "frequency": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "region": "Bretagne",
+    "department": "Finistère",
+    "hot_points": [
+      {
+        "lat": 48.415,
+        "lon": -4.48,
+        "frequency": 10,
+        "neighbors": [
+          {
+            "lat": 48.414,
+            "lon": -4.48,
+            "frequency": 9
+          },
+          {
+            "lat": 48.4,
+            "lon": -4.486,
+            "frequency": 9
+          },
+          {
+            "lat": 48.413,
+            "lon": -4.491,
+            "frequency": 8
+          },
+          {
+            "lat": 48.415,
+            "lon": -4.479,
+            "frequency": 7
+          },
+          {
+            "lat": 48.416,
+            "lon": -4.479,
+            "frequency": 6
+          },
+          {
+            "lat": 48.413,
+            "lon": -4.487,
+            "frequency": 4
+          },
+          {
+            "lat": 48.416,
+            "lon": -4.468,
+            "frequency": 4
+          },
+          {
+            "lat": 48.402,
+            "lon": -4.467,
+            "frequency": 4
+          },
+          {
+            "lat": 48.404,
+            "lon": -4.5,
+            "frequency": 4
+          }
+        ]
+      },
+      {
+        "lat": 47.874,
+        "lon": -3.898,
+        "frequency": 8,
+        "neighbors": [
+          {
+            "lat": 47.881,
+            "lon": -3.91,
+            "frequency": 5
+          },
+          {
+            "lat": 47.874,
+            "lon": -3.905,
+            "frequency": 3
+          },
+          {
+            "lat": 47.876,
+            "lon": -3.914,
+            "frequency": 3
+          },
+          {
+            "lat": 47.872,
+            "lon": -3.916,
+            "frequency": 2
+          },
+          {
+            "lat": 47.862,
+            "lon": -3.889,
+            "frequency": 2
+          },
+          {
+            "lat": 47.863,
+            "lon": -3.89,
+            "frequency": 2
+          },
+          {
+            "lat": 47.879,
+            "lon": -3.903,
+            "frequency": 2
+          },
+          {
+            "lat": 47.878,
+            "lon": -3.879,
+            "frequency": 2
+          },
+          {
+            "lat": 47.877,
+            "lon": -3.915,
+            "frequency": 2
+          }
+        ]
+      },
+      {
+        "lat": 47.98,
+        "lon": -4.121,
+        "frequency": 6,
+        "neighbors": [
+          {
+            "lat": 47.994,
+            "lon": -4.106,
+            "frequency": 5
+          },
+          {
+            "lat": 47.979,
+            "lon": -4.095,
+            "frequency": 5
+          },
+          {
+            "lat": 47.984,
+            "lon": -4.116,
+            "frequency": 4
+          },
+          {
+            "lat": 47.994,
+            "lon": -4.105,
+            "frequency": 3
+          },
+          {
+            "lat": 47.984,
+            "lon": -4.113,
+            "frequency": 3
+          },
+          {
+            "lat": 47.98,
+            "lon": -4.107,
+            "frequency": 3
+          },
+          {
+            "lat": 47.989,
+            "lon": -4.111,
+            "frequency": 3
+          },
+          {
+            "lat": 47.988,
+            "lon": -4.109,
+            "frequency": 3
+          },
+          {
+            "lat": 47.986,
+            "lon": -4.112,
+            "frequency": 2
+          }
+        ]
+      },
+      {
+        "lat": 48.402,
+        "lon": -4.502,
+        "frequency": 6,
+        "neighbors": [
+          {
+            "lat": 48.396,
+            "lon": -4.489,
+            "frequency": 5
+          },
+          {
+            "lat": 48.393,
+            "lon": -4.488,
+            "frequency": 5
+          },
+          {
+            "lat": 48.395,
+            "lon": -4.488,
+            "frequency": 4
+          },
+          {
+            "lat": 48.403,
+            "lon": -4.506,
+            "frequency": 4
+          },
+          {
+            "lat": 48.389,
+            "lon": -4.484,
+            "frequency": 4
+          },
+          {
+            "lat": 48.391,
+            "lon": -4.488,
+            "frequency": 4
+          },
+          {
+            "lat": 48.393,
+            "lon": -4.479,
+            "frequency": 4
+          },
+          {
+            "lat": 48.392,
+            "lon": -4.487,
+            "frequency": 4
+          },
+          {
+            "lat": 48.397,
+            "lon": -4.483,
+            "frequency": 4
+          }
+        ]
+      },
+      {
+        "lat": 47.991,
+        "lon": -4.073,
+        "frequency": 6,
+        "neighbors": [
+          {
+            "lat": 47.991,
+            "lon": -4.074,
+            "frequency": 6
+          },
+          {
+            "lat": 47.984,
+            "lon": -4.075,
+            "frequency": 5
+          },
+          {
+            "lat": 47.995,
+            "lon": -4.073,
+            "frequency": 5
+          },
+          {
+            "lat": 47.98,
+            "lon": -4.079,
+            "frequency": 4
+          },
+          {
+            "lat": 47.99,
+            "lon": -4.074,
+            "frequency": 4
+          },
+          {
+            "lat": 48.003,
+            "lon": -4.055,
+            "frequency": 3
+          },
+          {
+            "lat": 47.976,
+            "lon": -4.069,
+            "frequency": 3
+          },
+          {
+            "lat": 47.983,
+            "lon": -4.075,
+            "frequency": 3
+          },
+          {
+            "lat": 47.98,
+            "lon": -4.081,
+            "frequency": 3
+          }
+        ]
+      },
+      {
+        "lat": 48.383,
+        "lon": -4.488,
+        "frequency": 6,
+        "neighbors": [
+          {
+            "lat": 48.386,
+            "lon": -4.487,
+            "frequency": 4
+          },
+          {
+            "lat": 48.383,
+            "lon": -4.509,
+            "frequency": 4
+          },
+          {
+            "lat": 48.385,
+            "lon": -4.487,
+            "frequency": 3
+          },
+          {
+            "lat": 48.385,
+            "lon": -4.483,
+            "frequency": 2
+          },
+          {
+            "lat": 48.387,
+            "lon": -4.486,
+            "frequency": 2
+          },
+          {
+            "lat": 48.39,
+            "lon": -4.471,
+            "frequency": 2
+          },
+          {
+            "lat": 48.39,
+            "lon": -4.474,
+            "frequency": 2
+          },
+          {
+            "lat": 48.383,
+            "lon": -4.515,
+            "frequency": 2
+          },
+          {
+            "lat": 48.383,
+            "lon": -4.486,
+            "frequency": 2
+          }
+        ]
+      },
+      {
+        "lat": 48.01,
+        "lon": -4.096,
+        "frequency": 5,
+        "neighbors": [
+          {
+            "lat": 47.996,
+            "lon": -4.1,
+            "frequency": 4
+          },
+          {
+            "lat": 48.011,
+            "lon": -4.08,
+            "frequency": 3
+          },
+          {
+            "lat": 47.997,
+            "lon": -4.109,
+            "frequency": 3
+          },
+          {
+            "lat": 48.01,
+            "lon": -4.105,
+            "frequency": 3
+          },
+          {
+            "lat": 47.999,
+            "lon": -4.115,
+            "frequency": 2
+          },
+          {
+            "lat": 48.017,
+            "lon": -4.095,
+            "frequency": 2
+          },
+          {
+            "lat": 47.994,
+            "lon": -4.1,
+            "frequency": 2
+          },
+          {
+            "lat": 48.011,
+            "lon": -4.097,
+            "frequency": 2
+          },
+          {
+            "lat": 48.001,
+            "lon": -4.111,
+            "frequency": 2
+          }
+        ]
+      },
+      {
+        "lat": 47.919,
+        "lon": -3.816,
+        "frequency": 4,
+        "neighbors": [
+          {
+            "lat": 47.919,
+            "lon": -3.818,
+            "frequency": 1
+          },
+          {
+            "lat": 47.923,
+            "lon": -3.815,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 47.979,
+        "lon": -4.094,
+        "frequency": 4,
+        "neighbors": [
+          {
+            "lat": 47.971,
+            "lon": -4.086,
+            "frequency": 3
+          },
+          {
+            "lat": 47.977,
+            "lon": -4.093,
+            "frequency": 2
+          },
+          {
+            "lat": 47.973,
+            "lon": -4.088,
+            "frequency": 2
+          },
+          {
+            "lat": 47.976,
+            "lon": -4.093,
+            "frequency": 2
+          },
+          {
+            "lat": 47.964,
+            "lon": -4.084,
+            "frequency": 1
+          },
+          {
+            "lat": 47.969,
+            "lon": -4.085,
+            "frequency": 1
+          },
+          {
+            "lat": 47.963,
+            "lon": -4.083,
+            "frequency": 1
+          },
+          {
+            "lat": 47.97,
+            "lon": -4.086,
+            "frequency": 1
+          },
+          {
+            "lat": 47.967,
+            "lon": -4.084,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 47.921,
+        "lon": -3.917,
+        "frequency": 4,
+        "neighbors": [
+          {
+            "lat": 47.919,
+            "lon": -3.903,
+            "frequency": 3
+          },
+          {
+            "lat": 47.923,
+            "lon": -3.891,
+            "frequency": 2
+          },
+          {
+            "lat": 47.921,
+            "lon": -3.929,
+            "frequency": 2
+          },
+          {
+            "lat": 47.91,
+            "lon": -3.904,
+            "frequency": 2
+          },
+          {
+            "lat": 47.932,
+            "lon": -3.905,
+            "frequency": 2
+          },
+          {
+            "lat": 47.929,
+            "lon": -3.901,
+            "frequency": 2
+          },
+          {
+            "lat": 47.925,
+            "lon": -3.894,
+            "frequency": 2
+          },
+          {
+            "lat": 47.937,
+            "lon": -3.912,
+            "frequency": 2
+          },
+          {
+            "lat": 47.918,
+            "lon": -3.904,
+            "frequency": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "region": "Auvergne-Rhône-Alpes",
+    "department": "Haute-Savoie",
+    "hot_points": [
+      {
+        "lat": 46.185,
+        "lon": 6.242,
+        "frequency": 7,
+        "neighbors": [
+          {
+            "lat": 46.181,
+            "lon": 6.23,
+            "frequency": 7
+          },
+          {
+            "lat": 46.193,
+            "lon": 6.237,
+            "frequency": 6
+          },
+          {
+            "lat": 46.194,
+            "lon": 6.241,
+            "frequency": 6
+          },
+          {
+            "lat": 46.194,
+            "lon": 6.24,
+            "frequency": 5
+          },
+          {
+            "lat": 46.191,
+            "lon": 6.242,
+            "frequency": 5
+          },
+          {
+            "lat": 46.182,
+            "lon": 6.23,
+            "frequency": 5
+          },
+          {
+            "lat": 46.185,
+            "lon": 6.226,
+            "frequency": 5
+          },
+          {
+            "lat": 46.19,
+            "lon": 6.233,
+            "frequency": 5
+          },
+          {
+            "lat": 46.193,
+            "lon": 6.229,
+            "frequency": 5
+          }
+        ]
+      },
+      {
+        "lat": 45.881,
+        "lon": 6.03,
+        "frequency": 4,
+        "neighbors": [
+          {
+            "lat": 45.878,
+            "lon": 6.033,
+            "frequency": 2
+          },
+          {
+            "lat": 45.879,
+            "lon": 6.041,
+            "frequency": 1
+          },
+          {
+            "lat": 45.88,
+            "lon": 6.042,
+            "frequency": 1
+          },
+          {
+            "lat": 45.879,
+            "lon": 6.023,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.919,
+        "lon": 6.126,
+        "frequency": 4,
+        "neighbors": [
+          {
+            "lat": 45.911,
+            "lon": 6.119,
+            "frequency": 3
+          },
+          {
+            "lat": 45.903,
+            "lon": 6.126,
+            "frequency": 3
+          },
+          {
+            "lat": 45.906,
+            "lon": 6.126,
+            "frequency": 3
+          },
+          {
+            "lat": 45.906,
+            "lon": 6.115,
+            "frequency": 3
+          },
+          {
+            "lat": 45.908,
+            "lon": 6.143,
+            "frequency": 2
+          },
+          {
+            "lat": 45.923,
+            "lon": 6.124,
+            "frequency": 2
+          },
+          {
+            "lat": 45.904,
+            "lon": 6.127,
+            "frequency": 2
+          },
+          {
+            "lat": 45.903,
+            "lon": 6.128,
+            "frequency": 2
+          },
+          {
+            "lat": 45.904,
+            "lon": 6.125,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 46.189,
+        "lon": 6.216,
+        "frequency": 4,
+        "neighbors": [
+          {
+            "lat": 46.192,
+            "lon": 6.208,
+            "frequency": 3
+          },
+          {
+            "lat": 46.199,
+            "lon": 6.225,
+            "frequency": 3
+          },
+          {
+            "lat": 46.201,
+            "lon": 6.23,
+            "frequency": 2
+          },
+          {
+            "lat": 46.178,
+            "lon": 6.214,
+            "frequency": 2
+          },
+          {
+            "lat": 46.183,
+            "lon": 6.216,
+            "frequency": 2
+          },
+          {
+            "lat": 46.186,
+            "lon": 6.207,
+            "frequency": 2
+          },
+          {
+            "lat": 46.191,
+            "lon": 6.21,
+            "frequency": 1
+          },
+          {
+            "lat": 46.183,
+            "lon": 6.209,
+            "frequency": 1
+          },
+          {
+            "lat": 46.19,
+            "lon": 6.212,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 46.341,
+        "lon": 6.462,
+        "frequency": 4,
+        "neighbors": [
+          {
+            "lat": 46.355,
+            "lon": 6.447,
+            "frequency": 2
+          },
+          {
+            "lat": 46.336,
+            "lon": 6.479,
+            "frequency": 1
+          },
+          {
+            "lat": 46.333,
+            "lon": 6.476,
+            "frequency": 1
+          },
+          {
+            "lat": 46.354,
+            "lon": 6.471,
+            "frequency": 1
+          },
+          {
+            "lat": 46.355,
+            "lon": 6.467,
+            "frequency": 1
+          },
+          {
+            "lat": 46.343,
+            "lon": 6.464,
+            "frequency": 1
+          },
+          {
+            "lat": 46.349,
+            "lon": 6.442,
+            "frequency": 1
+          },
+          {
+            "lat": 46.337,
+            "lon": 6.455,
+            "frequency": 1
+          },
+          {
+            "lat": 46.355,
+            "lon": 6.446,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 46.198,
+        "lon": 6.264,
+        "frequency": 3,
+        "neighbors": [
+          {
+            "lat": 46.198,
+            "lon": 6.267,
+            "frequency": 3
+          },
+          {
+            "lat": 46.204,
+            "lon": 6.244,
+            "frequency": 2
+          },
+          {
+            "lat": 46.203,
+            "lon": 6.256,
+            "frequency": 2
+          },
+          {
+            "lat": 46.203,
+            "lon": 6.282,
+            "frequency": 2
+          },
+          {
+            "lat": 46.197,
+            "lon": 6.262,
+            "frequency": 1
+          },
+          {
+            "lat": 46.204,
+            "lon": 6.285,
+            "frequency": 1
+          },
+          {
+            "lat": 46.198,
+            "lon": 6.27,
+            "frequency": 1
+          },
+          {
+            "lat": 46.198,
+            "lon": 6.265,
+            "frequency": 1
+          },
+          {
+            "lat": 46.206,
+            "lon": 6.28,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.883,
+        "lon": 6.142,
+        "frequency": 3,
+        "neighbors": [
+          {
+            "lat": 45.897,
+            "lon": 6.132,
+            "frequency": 2
+          },
+          {
+            "lat": 45.881,
+            "lon": 6.142,
+            "frequency": 2
+          },
+          {
+            "lat": 45.898,
+            "lon": 6.131,
+            "frequency": 1
+          },
+          {
+            "lat": 45.896,
+            "lon": 6.133,
+            "frequency": 1
+          },
+          {
+            "lat": 45.896,
+            "lon": 6.13,
+            "frequency": 1
+          },
+          {
+            "lat": 45.89,
+            "lon": 6.142,
+            "frequency": 1
+          },
+          {
+            "lat": 45.874,
+            "lon": 6.141,
+            "frequency": 1
+          },
+          {
+            "lat": 45.866,
+            "lon": 6.14,
+            "frequency": 1
+          },
+          {
+            "lat": 45.898,
+            "lon": 6.13,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.843,
+        "lon": 6.151,
+        "frequency": 3,
+        "neighbors": [
+          {
+            "lat": 45.848,
+            "lon": 6.146,
+            "frequency": 2
+          },
+          {
+            "lat": 45.835,
+            "lon": 6.151,
+            "frequency": 1
+          },
+          {
+            "lat": 45.851,
+            "lon": 6.145,
+            "frequency": 1
+          },
+          {
+            "lat": 45.835,
+            "lon": 6.162,
+            "frequency": 1
+          },
+          {
+            "lat": 45.836,
+            "lon": 6.16,
+            "frequency": 1
+          },
+          {
+            "lat": 45.842,
+            "lon": 6.138,
+            "frequency": 1
+          },
+          {
+            "lat": 45.854,
+            "lon": 6.144,
+            "frequency": 1
+          },
+          {
+            "lat": 45.856,
+            "lon": 6.139,
+            "frequency": 1
+          },
+          {
+            "lat": 45.84,
+            "lon": 6.155,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.949,
+        "lon": 6.046,
+        "frequency": 3,
+        "neighbors": [
+          {
+            "lat": 45.961,
+            "lon": 6.035,
+            "frequency": 2
+          },
+          {
+            "lat": 45.958,
+            "lon": 6.041,
+            "frequency": 1
+          },
+          {
+            "lat": 45.946,
+            "lon": 6.049,
+            "frequency": 1
+          },
+          {
+            "lat": 45.948,
+            "lon": 6.038,
+            "frequency": 1
+          },
+          {
+            "lat": 45.964,
+            "lon": 6.044,
+            "frequency": 1
+          },
+          {
+            "lat": 45.948,
+            "lon": 6.034,
+            "frequency": 1
+          },
+          {
+            "lat": 45.95,
+            "lon": 6.044,
+            "frequency": 1
+          },
+          {
+            "lat": 45.943,
+            "lon": 6.06,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.908,
+        "lon": 6.103,
+        "frequency": 3,
+        "neighbors": [
+          {
+            "lat": 45.892,
+            "lon": 6.111,
+            "frequency": 2
+          },
+          {
+            "lat": 45.901,
+            "lon": 6.118,
+            "frequency": 2
+          },
+          {
+            "lat": 45.903,
+            "lon": 6.111,
+            "frequency": 2
+          },
+          {
+            "lat": 45.899,
+            "lon": 6.121,
+            "frequency": 1
+          },
+          {
+            "lat": 45.894,
+            "lon": 6.106,
+            "frequency": 1
+          },
+          {
+            "lat": 45.919,
+            "lon": 6.083,
+            "frequency": 1
+          },
+          {
+            "lat": 45.922,
+            "lon": 6.099,
+            "frequency": 1
+          },
+          {
+            "lat": 45.893,
+            "lon": 6.111,
+            "frequency": 1
+          },
+          {
+            "lat": 45.894,
+            "lon": 6.119,
+            "frequency": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "region": "Auvergne-Rhône-Alpes",
+    "department": "Haute-Loire",
+    "hot_points": [
+      {
+        "lat": 45.036,
+        "lon": 3.881,
+        "frequency": 3,
+        "neighbors": [
+          {
+            "lat": 45.042,
+            "lon": 3.883,
+            "frequency": 3
+          },
+          {
+            "lat": 45.049,
+            "lon": 3.892,
+            "frequency": 3
+          },
+          {
+            "lat": 45.041,
+            "lon": 3.888,
+            "frequency": 3
+          },
+          {
+            "lat": 45.047,
+            "lon": 3.892,
+            "frequency": 3
+          },
+          {
+            "lat": 45.041,
+            "lon": 3.88,
+            "frequency": 2
+          },
+          {
+            "lat": 45.045,
+            "lon": 3.88,
+            "frequency": 2
+          },
+          {
+            "lat": 45.05,
+            "lon": 3.882,
+            "frequency": 2
+          },
+          {
+            "lat": 45.043,
+            "lon": 3.889,
+            "frequency": 2
+          },
+          {
+            "lat": 45.042,
+            "lon": 3.889,
+            "frequency": 2
+          }
+        ]
+      },
+      {
+        "lat": 45.052,
+        "lon": 3.897,
+        "frequency": 3,
+        "neighbors": [
+          {
+            "lat": 45.041,
+            "lon": 3.909,
+            "frequency": 2
+          },
+          {
+            "lat": 45.049,
+            "lon": 3.92,
+            "frequency": 2
+          },
+          {
+            "lat": 45.05,
+            "lon": 3.918,
+            "frequency": 2
+          },
+          {
+            "lat": 45.056,
+            "lon": 3.903,
+            "frequency": 2
+          },
+          {
+            "lat": 45.049,
+            "lon": 3.919,
+            "frequency": 2
+          },
+          {
+            "lat": 45.055,
+            "lon": 3.91,
+            "frequency": 2
+          },
+          {
+            "lat": 45.051,
+            "lon": 3.899,
+            "frequency": 2
+          },
+          {
+            "lat": 45.05,
+            "lon": 3.912,
+            "frequency": 2
+          },
+          {
+            "lat": 45.05,
+            "lon": 3.906,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.416,
+        "lon": 3.297,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 45.401,
+            "lon": 3.303,
+            "frequency": 1
+          },
+          {
+            "lat": 45.403,
+            "lon": 3.308,
+            "frequency": 1
+          },
+          {
+            "lat": 45.416,
+            "lon": 3.301,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.29,
+        "lon": 3.387,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 45.304,
+            "lon": 3.378,
+            "frequency": 2
+          },
+          {
+            "lat": 45.295,
+            "lon": 3.377,
+            "frequency": 1
+          },
+          {
+            "lat": 45.291,
+            "lon": 3.385,
+            "frequency": 1
+          },
+          {
+            "lat": 45.282,
+            "lon": 3.389,
+            "frequency": 1
+          },
+          {
+            "lat": 45.303,
+            "lon": 3.379,
+            "frequency": 1
+          },
+          {
+            "lat": 45.301,
+            "lon": 3.38,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.093,
+        "lon": 3.626,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 45.092,
+            "lon": 3.635,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.014,
+        "lon": 3.889,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 45.009,
+            "lon": 3.879,
+            "frequency": 1
+          },
+          {
+            "lat": 45,
+            "lon": 3.874,
+            "frequency": 1
+          },
+          {
+            "lat": 45.024,
+            "lon": 3.909,
+            "frequency": 1
+          },
+          {
+            "lat": 45.018,
+            "lon": 3.895,
+            "frequency": 1
+          },
+          {
+            "lat": 45.018,
+            "lon": 3.897,
+            "frequency": 1
+          },
+          {
+            "lat": 45.02,
+            "lon": 3.894,
+            "frequency": 1
+          },
+          {
+            "lat": 45.02,
+            "lon": 3.893,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.215,
+        "lon": 4.344,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 45.215,
+            "lon": 4.33,
+            "frequency": 1
+          },
+          {
+            "lat": 45.221,
+            "lon": 4.347,
+            "frequency": 1
+          },
+          {
+            "lat": 45.206,
+            "lon": 4.345,
+            "frequency": 1
+          },
+          {
+            "lat": 45.212,
+            "lon": 4.346,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.048,
+        "lon": 3.928,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 45.041,
+            "lon": 3.937,
+            "frequency": 1
+          },
+          {
+            "lat": 45.047,
+            "lon": 3.925,
+            "frequency": 1
+          },
+          {
+            "lat": 45.047,
+            "lon": 3.933,
+            "frequency": 1
+          },
+          {
+            "lat": 45.037,
+            "lon": 3.935,
+            "frequency": 1
+          },
+          {
+            "lat": 45.047,
+            "lon": 3.927,
+            "frequency": 1
+          },
+          {
+            "lat": 45.048,
+            "lon": 3.923,
+            "frequency": 1
+          },
+          {
+            "lat": 45.045,
+            "lon": 3.925,
+            "frequency": 1
+          },
+          {
+            "lat": 45.053,
+            "lon": 3.951,
+            "frequency": 1
+          },
+          {
+            "lat": 45.047,
+            "lon": 3.926,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.093,
+        "lon": 4.055,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 45.104,
+            "lon": 4.069,
+            "frequency": 1
+          },
+          {
+            "lat": 45.1,
+            "lon": 4.039,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 45.14,
+        "lon": 3.788,
+        "frequency": 1,
+        "neighbors": [
+          {
+            "lat": 45.139,
+            "lon": 3.795,
+            "frequency": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "region": "Occitanie",
+    "department": "Lozère",
+    "hot_points": [
+      {
+        "lat": 44.587,
+        "lon": 3.251,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 44.581,
+            "lon": 3.25,
+            "frequency": 1
+          },
+          {
+            "lat": 44.598,
+            "lon": 3.254,
+            "frequency": 1
+          },
+          {
+            "lat": 44.57,
+            "lon": 3.251,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 44.538,
+        "lon": 3.583,
+        "frequency": 2,
+        "neighbors": []
+      },
+      {
+        "lat": 44.518,
+        "lon": 3.502,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 44.52,
+            "lon": 3.497,
+            "frequency": 2
+          },
+          {
+            "lat": 44.512,
+            "lon": 3.518,
+            "frequency": 2
+          },
+          {
+            "lat": 44.533,
+            "lon": 3.501,
+            "frequency": 1
+          },
+          {
+            "lat": 44.52,
+            "lon": 3.504,
+            "frequency": 1
+          },
+          {
+            "lat": 44.525,
+            "lon": 3.482,
+            "frequency": 1
+          },
+          {
+            "lat": 44.527,
+            "lon": 3.515,
+            "frequency": 1
+          },
+          {
+            "lat": 44.509,
+            "lon": 3.504,
+            "frequency": 1
+          },
+          {
+            "lat": 44.519,
+            "lon": 3.503,
+            "frequency": 1
+          },
+          {
+            "lat": 44.514,
+            "lon": 3.497,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 44.285,
+        "lon": 3.597,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 44.273,
+            "lon": 3.599,
+            "frequency": 1
+          },
+          {
+            "lat": 44.269,
+            "lon": 3.607,
+            "frequency": 1
+          },
+          {
+            "lat": 44.283,
+            "lon": 3.588,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 44.802,
+        "lon": 3.276,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 44.815,
+            "lon": 3.271,
+            "frequency": 1
+          },
+          {
+            "lat": 44.807,
+            "lon": 3.272,
+            "frequency": 1
+          },
+          {
+            "lat": 44.804,
+            "lon": 3.276,
+            "frequency": 1
+          },
+          {
+            "lat": 44.819,
+            "lon": 3.269,
+            "frequency": 1
+          },
+          {
+            "lat": 44.787,
+            "lon": 3.289,
+            "frequency": 1
+          },
+          {
+            "lat": 44.799,
+            "lon": 3.275,
+            "frequency": 1
+          },
+          {
+            "lat": 44.798,
+            "lon": 3.276,
+            "frequency": 1
+          },
+          {
+            "lat": 44.789,
+            "lon": 3.286,
+            "frequency": 1
+          },
+          {
+            "lat": 44.812,
+            "lon": 3.266,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 44.37,
+        "lon": 3.535,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 44.371,
+            "lon": 3.534,
+            "frequency": 1
+          },
+          {
+            "lat": 44.372,
+            "lon": 3.524,
+            "frequency": 1
+          },
+          {
+            "lat": 44.383,
+            "lon": 3.521,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 44.501,
+        "lon": 3.406,
+        "frequency": 2,
+        "neighbors": [
+          {
+            "lat": 44.506,
+            "lon": 3.411,
+            "frequency": 1
+          },
+          {
+            "lat": 44.491,
+            "lon": 3.418,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 44.294,
+        "lon": 3.237,
+        "frequency": 1,
+        "neighbors": []
+      },
+      {
+        "lat": 44.372,
+        "lon": 3.411,
+        "frequency": 1,
+        "neighbors": [
+          {
+            "lat": 44.366,
+            "lon": 3.411,
+            "frequency": 1
+          },
+          {
+            "lat": 44.355,
+            "lon": 3.407,
+            "frequency": 1
+          },
+          {
+            "lat": 44.361,
+            "lon": 3.406,
+            "frequency": 1
+          }
+        ]
+      },
+      {
+        "lat": 44.638,
+        "lon": 3.063,
+        "frequency": 1,
+        "neighbors": [
+          {
+            "lat": 44.623,
+            "lon": 3.07,
+            "frequency": 1
+          },
+          {
+            "lat": 44.628,
+            "lon": 3.062,
+            "frequency": 1
+          }
+        ]
+      }
+    ]
+  }
+]
